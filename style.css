@@ -562,7 +562,7 @@ body {
 ::selection {
 	color: #fff;
 /* 	background-color: #1abc9c; */
-	background-image: none;
+	background-image: url('https://2018.skopje.wordcamp.org/files/2018/08/Skopje02-e1461600632728.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -1125,7 +1125,7 @@ pre code {
 	margin-bottom: 1rem;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	background-image: url('https://2018.kualalumpur.wordcamp.org/files/2018/08/WordCampKL-logo.png');
+	background-image: url('https://2018.kualalumpur.wordcamp.org/files/2018/08/wpkl_white.png');
 	background-size: 100%;
 	content: "";
 }
@@ -3746,7 +3746,7 @@ img.emoji,img.wp-smiley {
 	margin-bottom: 1rem;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	background-image: url('https://2018.kualalumpur.wordcamp.org/files/2018/08/WordCampKL-logo.png');
+	background-image: url('https://2018.kualalumpur.wordcamp.org/files/2018/08/wpkl_white.png');
 	background-size: 100%;
 	content: "";
 }
