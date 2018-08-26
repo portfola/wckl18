@@ -1631,6 +1631,14 @@ pre code {
 	display: inline;
 }
 
+.post-4 .entry-meta,
+.post-5 .entry-meta,
+.post-6 .entry-meta,
+.post-28 .entry-meta,
+.post-29 .entry-meta {
+	display: none;
+}
+
 .entry-footer {
 	margin-bottom: 1.5rem;
 	font-family: Work Sans, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
