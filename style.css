@@ -1085,18 +1085,6 @@ pre code {
 	padding: 3.5rem 1rem;
 }
 
-@media (min-width:37.5em) {
-	.home .site-header .site-branding {
-		padding: 7rem 2rem;
-	}
-}
-
-@media (min-width:48em) {
-	.home .site-header .site-branding {
-		padding: 10.5rem 3rem;
-	}
-}
-
 .site-title {
 	margin: 0;
 	font-size: 1.5625em;
